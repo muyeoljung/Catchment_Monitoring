@@ -8,6 +8,7 @@
 유량측정성과 http://www.wamis.go.kr/wkw/wkw_flwsrrs_lst.do ()
 유출분석: http://www.wamis.go.kr/wkw/wkw_abgrf_lst.do 면적평균유출량
 우리나라 하천유역 환경변화가 유황특성에 미치는 영향 분석 논문참고: 유황곡선 그릴수 있을듯. 변화 확인 가능?
+하천별 수위상관 http://www.wamis.go.kr/wlmain/wlmain.do (지방 오대천)
 
 목적: 유역분지내 대규모 개발에 따른 하천유량 변화?
 공사시점 특정?
